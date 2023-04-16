@@ -1,12 +1,14 @@
+[Custom Server Details]: https://github.com/InsultingPros/CustomServerDetails
+
 # CustomServerDetails Extension
 
 [![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/CustomServerDetailsExtension/total)](https://github.com/InsultingPros/CustomServerDetailsExtension/releases)
 
-This is a template-example repo to show how to add your own server details, without recompiling [Custom Server Details](https://github.com/InsultingPros/CustomServerDetails).
+This is a template-example repo to show how to add your own server details, without recompiling [Custom Server Details].
 
 ## Installation
 
-Open your [CustomServerDetails.ini](https://github.com/InsultingPros/CustomServerDetails/blob/main/Configs/CustomServerDetails.ini)'s `[CustomServerDetails.CSDMasterServerUplink]` section:
+0. Make sure you have installed [Custom Server Details] 1.4.0 or higher. Open your [CustomServerDetails.ini](https://github.com/InsultingPros/CustomServerDetails/blob/main/Configs/CustomServerDetails.ini)'s `[CustomServerDetails.CSDMasterServerUplink]` section:
 
 1. Add your *packageName.className*:
 
